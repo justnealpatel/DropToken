@@ -3,7 +3,7 @@ A CLI that simulates a two-player game of Drop Token.
 
 ## Usage
 
-You must have Python 3 installed (doesn’t matter which specific version but just needs to be 3.0+). Use the following to run the program
+You must have Python 3 installed (doesn’t matter which specific version but just needs to be 3.0+). I'm using 3.7. Use the following to run the program
 
 - Open your terminal or command prompt
 - Run `ls` and if you see `DropToken.py`, you're in the right place
